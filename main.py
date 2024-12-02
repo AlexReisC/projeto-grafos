@@ -90,12 +90,6 @@ class Bairro:
     
     def dijkstra(self, origem, destino=None):
         """
-        Implementa o algoritmo de Dijkstra para encontrar o caminho mais curto
-        
-        Parâmetros:
-        - origem: id do ponto de origem
-        - destino: id do ponto de destino (opcional, se não fornecido, calcula para todos os pontos)
-        
         Retorna:
         - Dicionário de distâncias mínimas
         - Dicionário de predecessores para reconstruir caminhos

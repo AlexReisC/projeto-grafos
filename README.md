@@ -38,5 +38,13 @@ Carrocinhas do centro de zoonoses são enviadas para recolher animais detectados
 
 O programa calcula e exibe o número mínimo de caminhões e funcionários necessários.
 
+## Explicação em vídeo
+Explicação do projeto feita pelos membros da equipe em partes:
+- [Alex - Classe Bairro e funcionamento geral](https://drive.google.com/file/d/1MfvVR18gPjKfx1hAGKHcehvQFsUs-BDC/view?usp=drive_link)
+- Stéfani - Classes PontoDeColeta() e CarroDoLixo()
+   - [PARTE 1](https://drive.google.com/file/d/1YGIOB8JDWMjEmzCBDZPYDL4m9WVKzhEX/view?usp=drivesdk)
+   - [PARTE 2](https://drive.google.com/file/d/1YQ4CHIWqybFBfKlEHNlMXtIHo65NiPUm/view?usp=drivesdk)
+- [Henrique - Classe CentroDeZoonozes](https://drive.google.com/file/d/1K-zh-2A2WL8mF4riqPPUy3T-YrU1zO-_/view?usp=sharing)
+
 ## Licença
 Este projeto é livre para uso e modificação conforme necessário. 😊
